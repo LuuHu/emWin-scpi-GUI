@@ -1,0 +1,242 @@
+[2021-05-16 00:19:56]	compilation failed at : "c:\Users\CyanO\Desktop\wi\Src\libscpi\test_fifo.c", exit code: 1
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 00:28:04]	compilation failed at : "c:\Users\CyanO\Desktop\wi\Src\libscpi\parser.c", exit code: 1
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 00:29:43]	compilation failed at : "c:\Users\CyanO\Desktop\wi\Src\libscpi\parser.c", exit code: 1
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 00:32:00]	[done]
+	build successfully !
+
+[2021-05-16 15:02:10]	[done]
+	build successfully !
+
+[2021-05-16 15:02:24]	[done]
+	build successfully !
+
+[2021-05-16 15:03:21]	[done]
+	build successfully !
+
+[2021-05-16 15:12:57]	compilation failed at : "c:\Users\CyanO\Desktop\wi\Src\GUI_App.c", exit code: 1
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 15:13:26]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 15:20:00]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 15:20:47]	[done]
+	build successfully !
+
+[2021-05-16 15:21:31]	[done]
+	build successfully !
+
+[2021-05-16 15:22:52]	[done]
+	build successfully !
+
+[2021-05-16 15:23:55]	[done]
+	build successfully !
+
+[2021-05-16 15:25:00]	[done]
+	build successfully !
+
+[2021-05-16 15:42:26]	[done]
+	build successfully !
+
+[2021-05-16 15:43:12]	[done]
+	build successfully !
+
+[2021-05-16 15:44:36]	[done]
+	build successfully !
+
+[2021-05-16 15:45:37]	[done]
+	build successfully !
+
+[2021-05-16 15:49:08]	[done]
+	build successfully !
+
+[2021-05-16 15:50:52]	[done]
+	build successfully !
+
+[2021-05-16 15:53:15]	[done]
+	build successfully !
+
+[2021-05-16 17:02:19]	[done]
+	build successfully !
+
+[2021-05-16 17:14:36]	[done]
+	build successfully !
+
+[2021-05-16 17:15:13]	[done]
+	build successfully !
+
+[2021-05-16 17:17:04]	[done]
+	build successfully !
+
+[2021-05-16 17:17:54]	[done]
+	build successfully !
+
+[2021-05-16 17:18:14]	[done]
+	build successfully !
+
+[2021-05-16 17:18:58]	[done]
+	build successfully !
+
+[2021-05-16 17:23:05]	[done]
+	build successfully !
+
+[2021-05-16 17:23:31]	[done]
+	build successfully !
+
+[2021-05-16 17:30:43]	[done]
+	build successfully !
+
+[2021-05-16 18:00:48]	[done]
+	build successfully !
+
+[2021-05-16 18:01:37]	[done]
+	build successfully !
+
+[2021-05-16 18:03:07]	[done]
+	build successfully !
+
+[2021-05-16 18:04:03]	[done]
+	build successfully !
+
+[2021-05-16 18:05:47]	[done]
+	build successfully !
+
+[2021-05-16 18:20:48]	[done]
+	build successfully !
+
+[2021-05-16 18:23:33]	[done]
+	build successfully !
+
+[2021-05-16 18:24:32]	[done]
+	build successfully !
+
+[2021-05-16 18:26:24]	[done]
+	build successfully !
+
+[2021-05-16 19:43:07]	[done]
+	build successfully !
+
+[2021-05-16 19:45:37]	[done]
+	build successfully !
+
+[2021-05-16 19:45:48]	[done]
+	build successfully !
+
+[2021-05-16 19:47:04]	[done]
+	build successfully !
+
+[2021-05-16 19:47:35]	[done]
+	build successfully !
+
+[2021-05-16 19:47:38]	[done]
+	build successfully !
+
+[2021-05-16 19:48:26]	[done]
+	build successfully !
+
+[2021-05-16 21:22:53]	compilation failed at : "c:\Users\CyanO\Desktop\wi\Src\guis\inputpage.c", exit code: 1
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 21:24:06]	compilation failed at : "c:\Users\CyanO\Desktop\wi\Src\guis\inputpage.c", exit code: 1
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 21:24:37]	compilation failed at : "c:\Users\CyanO\Desktop\wi\Src\guis\inputpage.c", exit code: 1
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 21:24:52]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 21:25:40]	[done]
+	build successfully !
+
+[2021-05-16 21:38:59]	compilation failed at : "c:\Users\CyanO\Desktop\wi\Src\guis\mainpage.c", exit code: 1
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 21:39:57]	[done]
+	build successfully !
+
+[2021-05-16 21:40:21]	[done]
+	build successfully !
+
+[2021-05-16 21:43:13]	[done]
+	build successfully !
+
+[2021-05-16 21:45:08]	compilation failed at : "c:\Users\CyanO\Desktop\wi\Src\guis\mainpage.c", exit code: 1
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 21:45:25]	[done]
+	build successfully !
+
+[2021-05-16 21:47:05]	[done]
+	build successfully !
+
+[2021-05-16 21:59:53]	compilation failed at : "c:\Users\CyanO\Desktop\wi\Src\guis\mainpage.c", exit code: 1
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   at unify_builder.Program.Main(String[] args)
+
+[2021-05-16 22:00:17]	[done]
+	build successfully !
+
+[2021-05-16 22:01:26]	[done]
+	build successfully !
+
+[2021-05-16 22:01:56]	[done]
+	build successfully !
+
+[2021-05-16 22:02:56]	[done]
+	build successfully !
+
+[2021-05-16 22:03:41]	[done]
+	build successfully !
+
+[2021-05-16 22:04:19]	[done]
+	build successfully !
+
+[2021-05-16 22:06:03]	[done]
+	build successfully !
+
+[2021-05-16 22:06:27]	[done]
+	build successfully !
+
+[2021-05-16 22:06:49]	[done]
+	build successfully !
+
+[2021-05-16 22:18:15]	[done]
+	build successfully !
+
+[2021-05-16 22:18:46]	[done]
+	build successfully !
+
+[2021-05-16 22:20:13]	[done]
+	build successfully !
+
+[2021-05-16 23:00:59]	[done]
+	build successfully !
+
+[2021-05-16 23:32:16]	[done]
+	build successfully !
+
+[2021-05-17 00:37:30]	[done]
+	build successfully !
+
+[2021-05-17 00:39:41]	[done]
+	build successfully !
+
+[2021-05-17 00:43:53]	[done]
+	build successfully !
+

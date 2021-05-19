@@ -1,0 +1,9 @@
+waveshare_43tft_freertos_emwin\guiconf.o: ../Src/GUIConf.c
+waveshare_43tft_freertos_emwin\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI.h
+waveshare_43tft_freertos_emwin\guiconf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+waveshare_43tft_freertos_emwin\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI_ConfDefaults.h
+waveshare_43tft_freertos_emwin\guiconf.o: ../Inc/GUIConf.h
+waveshare_43tft_freertos_emwin\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI_Type.h
+waveshare_43tft_freertos_emwin\guiconf.o: ../Middlewares/ST/STemWin/inc/LCD.h
+waveshare_43tft_freertos_emwin\guiconf.o: ../Middlewares/ST/STemWin/inc/Global.h
+waveshare_43tft_freertos_emwin\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI_Version.h

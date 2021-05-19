@@ -1,0 +1,16 @@
+waveshare_43tft_freertos_emwin\parser.o: ..\Src\libscpi\parser.c
+waveshare_43tft_freertos_emwin\parser.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+waveshare_43tft_freertos_emwin\parser.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+waveshare_43tft_freertos_emwin\parser.o: ../Inc/scpi/config.h
+waveshare_43tft_freertos_emwin\parser.o: ../Inc/scpi/cc.h
+waveshare_43tft_freertos_emwin\parser.o: ../Inc/scpi/parser.h
+waveshare_43tft_freertos_emwin\parser.o: ../Inc/scpi/types.h
+waveshare_43tft_freertos_emwin\parser.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+waveshare_43tft_freertos_emwin\parser.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+waveshare_43tft_freertos_emwin\parser.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+waveshare_43tft_freertos_emwin\parser.o: ..\Inc\scpi\parser_private.h
+waveshare_43tft_freertos_emwin\parser.o: ..\Inc\scpi\utils_private.h
+waveshare_43tft_freertos_emwin\parser.o: ..\Inc\scpi\lexer_private.h
+waveshare_43tft_freertos_emwin\parser.o: ../Inc/scpi/error.h
+waveshare_43tft_freertos_emwin\parser.o: ../Inc/scpi/constants.h
+waveshare_43tft_freertos_emwin\parser.o: ../Inc/scpi/utils.h

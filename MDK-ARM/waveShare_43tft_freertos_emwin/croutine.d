@@ -1,0 +1,14 @@
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+waveshare_43tft_freertos_emwin\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+waveshare_43tft_freertos_emwin\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+waveshare_43tft_freertos_emwin\croutine.o: ../Inc/FreeRTOSConfig.h
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1/portmacro.h
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+waveshare_43tft_freertos_emwin\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,9 @@
+waveshare_43tft_freertos_emwin\fifo.o: ..\Src\libscpi\fifo.c
+waveshare_43tft_freertos_emwin\fifo.o: ..\Inc\scpi\fifo_private.h
+waveshare_43tft_freertos_emwin\fifo.o: ../Inc/scpi/types.h
+waveshare_43tft_freertos_emwin\fifo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+waveshare_43tft_freertos_emwin\fifo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+waveshare_43tft_freertos_emwin\fifo.o: ../Inc/scpi/config.h
+waveshare_43tft_freertos_emwin\fifo.o: ../Inc/scpi/cc.h
+waveshare_43tft_freertos_emwin\fifo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+waveshare_43tft_freertos_emwin\fifo.o: ..\Inc\scpi\utils_private.h

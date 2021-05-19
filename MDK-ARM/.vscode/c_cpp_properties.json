@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "win32",
+            "includePath": [
+                "${default}",
+                ".\\..\\Inc",
+                ".\\..\\Drivers\\STM32F7xx_HAL_Driver\\Inc",
+                ".\\..\\Drivers\\STM32F7xx_HAL_Driver\\Inc\\Legacy",
+                ".\\..\\Middlewares\\Third_Party\\FreeRTOS\\Source\\include",
+                ".\\..\\Middlewares\\Third_Party\\FreeRTOS\\Source\\CMSIS_RTOS",
+                ".\\..\\Middlewares\\Third_Party\\FreeRTOS\\Source\\portable\\RVDS\\ARM_CM7\\r0p1",
+                ".\\..\\Drivers\\CMSIS\\Device\\ST\\STM32F7xx\\Include",
+                ".\\..\\Middlewares\\ST\\STemWin\\inc",
+                ".\\..\\Drivers\\CMSIS\\Include",
+                ".\\..\\Inc\\scpi",
+                ".\\.eide\\deps",
+                ".\\..\\..\\..\\..\\..\\Keil_v5\\ARM\\ARMCC\\include",
+                ".\\..\\..\\..\\..\\..\\Keil_v5\\ARM\\ARMCC\\include\\rw"
+            ],
+            "defines": [
+                "${default}",
+                "USE_HAL_DRIVER",
+                "STM32F746xx",
+                "__VSCODE_CPPTOOL"
+            ],
+            "intelliSenseMode": "${default}",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "${default}"
+            },
+            "forcedInclude": [
+                ".\\..\\..\\..\\.vscode-insiders\\extensions\\cl.eide-2.5.5\\bin\\include\\internal_headers\\armcc_intr.h"
+            ]
+        }
+    ],
+    "version": 4
+}
